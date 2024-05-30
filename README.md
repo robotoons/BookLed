@@ -2,8 +2,7 @@
 # **What is it?**
 BookLed is a hardcover paper book designed for experimenting with **Python** and for exploring **Generative AI**.  
 
-<!-- ![BookLed USB Image](docs/images/usb.jpg "This is the BookLed USB port") -->
-<img src="docs/images/xontontox.jpg" alt="Example Image" width="300">
+<img src="docs/images/xontontox.jpg" alt="Xontontox is calling home Image" width="300">
 
 In this github repository, examples of Python and Jupyter notebook codes are collected to explore the interfacing of a paper book with a PC and with generative AI.
 
@@ -12,9 +11,11 @@ See the [wiki](https://github.com/BookLed/wiki) for extensive documentation.
 In appearance, BookLed is a normal book with thick card pages. 
 At the top of the book, there is a small USB port and switch.
 
-<img src="docs/images/usb.jpg" alt="Example Image" width="300">
+<img src="docs/images/usb.jpg" alt="USB Image" width="300">
 
 The technological core of the BookLed  is a **page identification sensor**: using a system of magnets, the book is able to recognize which page the user is reading and detect the turning from one page to the next.
+
+<img src="docs/images/hall_sensor.jpg" alt="Hall sensor Image" width="300">
 
 So, connect BookLed to your PC and launch a **jupyter notebook**.   
 The Python code inside jupyter can identify the book’s page and delivers the multimedia content synchronized with the turning of the pages:  
@@ -40,7 +41,7 @@ To experiment with the BookLed you need:
 
 
 
-## CODE EXAPLES
+## CODE EXAMPLES
 
 Below is the list of code examples for BookLed that you can download from this repository.
 
