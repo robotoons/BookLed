@@ -2,7 +2,7 @@
 # **What is it?**
 BookLed is a hardcover paper book designed for experimenting with **Python** and for exploring **Generative AI**.  
 
-![BookLed USB Image](images/usb.jpg "This is the BookLed USB port")
+![BookLed USB Image](docs/images/usb.jpg "This is the BookLed USB port")
 
 In this github repository, examples of Python and Jupyter notebook codes are collected to explore the interfacing of a paper book with a PC and with generative AI.
 
