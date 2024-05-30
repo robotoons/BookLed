@@ -12,9 +12,9 @@ See the [wiki](https://github.com/BookLed/wiki) for extensive documentation.
 In appearance, BookLed is a normal book with thick card pages. 
 At the top of the book, there is a small USB port and switch.
 
-The technological core of the BookLed  is a **page identification sensor**: using a system of magnets, the book is able to recognize which page the user is reading and detect the turning from one page to the next.
-
 <img src="docs/images/usb.jpg" alt="Example Image" width="300">
+
+The technological core of the BookLed  is a **page identification sensor**: using a system of magnets, the book is able to recognize which page the user is reading and detect the turning from one page to the next.
 
 So, connect BookLed to your PC and launch a **jupyter notebook**.   
 The Python code inside jupyter can identify the book’s page and delivers the multimedia content synchronized with the turning of the pages:  
