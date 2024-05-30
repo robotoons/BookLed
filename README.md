@@ -1,12 +1,12 @@
 BookLed -- An interactive Paper Book
 ====================================
 
-# **DESCRIPTION**
-BookLed is a hardcover paper book designed for experimenting with **Python** and for exploring **Generative AI**.  
+## **DESCRIPTION**
+BookLed is a hardcover paper book, containing electronic hardware, designed for experimenting with **Python** and for exploring **Generative AI**.  
 
 <img src="docs/images/xontontox.jpg" alt="Xontontox is calling home Image" width="300">
 
-In this github repository, examples of Python and Jupyter notebook codes are collected to explore the interfacing of a paper book with a PC and with generative AI.
+In this github repository, examples of Python and Jupyter notebook codes are collected to explore the interfacing this paper book with a PC and with generative AI.
 
 See the [wiki](https://github.com/BookLed/wiki) for extensive documentation.
 
@@ -26,7 +26,7 @@ The Python code inside jupyter can identify the book’s page and delivers the m
 - animated backgrounds that virtually extend the printed page to the Web.  
 - interaction with **AI generated Little Owl character**.  
 
-# **SYSTEM REQUIREMENTS**
+## **SYSTEM REQUIREMENTS**
 To experiment with the BookLed you need:
   * A BookLed
   * A USB cable
@@ -35,7 +35,7 @@ To experiment with the BookLed you need:
   * An openAI API account to experiment with generative AI
 
 
-# **Quick Start**
+## **Quick Start**
 
 ### 1. Install USB Silabs Drivers
 ### 2. Go to github to download jupyter notebooks
@@ -43,9 +43,9 @@ To experiment with the BookLed you need:
 
 
 
-# **CODE EXAMPLES**
+## **CODE EXAMPLES**
 
-Below is the list of code examples for BookLed that you can download from this repository.
+Below is the list of jupyter notebook code examples for BookLed that you can download from this repository.
 
 | jupyter notebook            | OpenAI API | Description |
 | ----------------- | --------- | ----------- |
@@ -56,6 +56,7 @@ Below is the list of code examples for BookLed that you can download from this r
 | BookLed Experiment 4 (Litte Owl tells the story).ipynb            | [REQUIRED]    | The pages of the book are narrated by the voice of Little Owl! |
 
 
+Below is the list of python codes for BookLed that you can download from this repository.
 
 | python            | OpenAI API | Description |
 | ----------------- | --------- | ----------- |
