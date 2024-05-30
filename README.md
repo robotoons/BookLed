@@ -1,30 +1,32 @@
 # BookLed
 # **What is it?**
 BookLed is a hardcover paper book designed for experimenting with **Python** and for exploring **Generative AI**.  
+
+![BookLed USB Image](images/usb.jpg "This is the BookLed USB port")
+
+In this github repository, examples of Python and Jupyter notebook codes are collected to explore the interfacing of a paper book with a PC and with generative AI.
+
+See the [wiki](https://github.com/BookLed/wiki) for extensive documentation.
+
 In appearance, BookLed is a normal book with thick card pages. 
 At the top of the book, there is a small USB port and switch.
 
 The technological core of the BookLed  is a **page identification sensor**: using a system of magnets, the book is able to recognize which page the user is reading and detect the turning from one page to the next.
-The information from the page is then used:
-
-- to activate light effects which follow what is going on in the story .
-- to activate sound effects related to what is happening on the page .
-- to send, through USB interface, the page number to a **Python** code.  
 
 So, connect BookLed to your PC and launch a **jupyter notebook**.   
-The Python code inside jupyter identifies the book’s page and delivers the multimedia content synchronized with the turning of the pages:  
+The Python code inside jupyter can identify the book’s page and delivers the multimedia content synchronized with the turning of the pages:  
 
 - soundtrack of the book and dubbing of the story with ‘cartoon’ voices.  
 - animated backgrounds that virtually extend the printed page to the Web.  
 - interaction with **AI generated Little Owl character**.  
 
-Of course, even without any PC connection, and just sitting in the comfort of your armchair, you can still easily enjoy the book’s built-in light and sound effects.
-
-
-# **Explore Generative AI!**
-Imagine the magic of connecting a paper book to a Generative AI! If you have an account to use the **OpenAI API**, you can **download codes from GitHub** and dive into an amazing experience with Little Owl. This fantastic AI will read the book to you in any language you choose and share its insightful and entertaining opinions on the unfolding story.
-
-(Coming soon: **cheshirecat plugin** https://cheshirecat.ai/)
+### SYSTEM REQUIREMENTS
+To experiment with the BookLed you need:
+  * A BookLed
+  * A USB cable
+  * A PC
+  * Python 3.11.0 or higher or jupyter notebook installed
+  * An openAI API account to experiment with generative AI
 
 
 # **Quick Start**
@@ -33,6 +35,19 @@ Imagine the magic of connecting a paper book to a Generative AI! If you have an 
 ### 2. Go to github to download jupyter notebooks
 ### 3. Explore Generative AI with the help of Little Owl!
 
+
+
+## CODE EXAPLES
+
+Below is the list of code examples for BookLed that you can download from this repository.
+
+| jupyter notebook            | OpenAI API | Description |
+| ----------------- | --------- | ----------- |
+| BookLed Experiment 1 (Hello Owl!).ipynb            | [NOT REQUIRED]    | This is the "Hello world" code to play with BookLed |
+| BookLed Experiment 2 (Talking Owl!).ipynb            | [NOT REQUIRED]    | The pages of the BookLed are recited with cartoon voices! |
+| BookLed Experiment 3 (Behind the book).ipynb            | [NOT REQUIRED]    | The pages of the BookLed are augmented with interactive scenography! |
+| BookLed Experiment 4 (AI tells the story).ipynb            | [REQUIRED]    | The pages of the book are narrated by the voice of the AI! |
+| BookLed Experiment 4 (Litte Owl tells the story).ipynb            | [REQUIRED]    | The pages of the book are narrated by the voice of Little Owl! |
 
 # **The story inside**
 Little Owl finds himself up against a merry band of little men from outer space who are intent on invading the Earth. Little Owl saves the day (even though Daddy Owl has lovingly explained that flying saucers do not exist).
