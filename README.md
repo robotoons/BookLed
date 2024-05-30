@@ -19,7 +19,7 @@ The technological core of the BookLed  is a **page identification sensor**: usin
 
 <img src="docs/images/hall_sensor.jpg" alt="Hall sensor Image" width="300">
 
-So, connect the USB of the BookLed to your PC and launch the **jupyter notebook** or the **python codes** provided in this repository.   
+So, connect the USB of the BookLed to your PC and launch the **jupyter notebooks** or the **python codes** provided in this repository.   
 This codes can identify the book’s page and delivers the multimedia content synchronized with the turning of the pages:  
 
 - soundtrack of the book and dubbing of the story with ‘cartoon’ voices.  
