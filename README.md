@@ -8,7 +8,7 @@ BookLed is a hardcover paper book, containing electronic hardware, designed for 
 
 In this github repository, examples of Python and Jupyter notebook codes are collected to explore the interfacing this paper book with a PC and with generative AI.
 
-See the [wiki](https://github.com/BookLed/wiki) for extensive documentation.
+See the [wiki](https://github.com/robotoons/BookLed/wiki) for extensive documentation.
 
 In appearance, BookLed is a normal book with thick card pages. 
 At the top of the book, there is a small USB port and switch.
