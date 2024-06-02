@@ -21,10 +21,6 @@
 # - Power ON the Bookled pushing the button switch
 # - Edit and run the next cell of this notebook
 
-# # Select the narrative voice
-
-# In[ ]:
-
 
 ################################################################
 # Uncomment the selected OpenAI TTS (text to speech) API voice #
@@ -46,9 +42,6 @@ prompt_addendum = "Talk in Danish."
 #prompt_addendum = "Produci un racconto in lingua italiana."
 
 
-# In[ ]:
-
-
 # Windows 10 tips:
 #	to make it work you have to do this:
 # pip install ffmpeg-downloader
@@ -61,9 +54,6 @@ prompt_addendum = "Talk in Danish."
 #    ffmpeg.exe e ffprobe.exe dentro al venv di python
 #
 # see https://stackoverflow.com/questions/74651215/couldnt-find-ffmpeg-or-avconv-python
-
-
-# In[ ]:
 
 
 import os
@@ -87,11 +77,6 @@ temp_dir = "temp_mp3"
 os.makedirs(temp_dir, exist_ok=True)
 
 
-# # Configure BookLed serial connection
-
-# In[ ]:
-
-
 ######################################################################################################
 # Configure BookLed serial connection (modify 'COM4' with the correct COM port)
 ######################################################################################################
@@ -103,11 +88,6 @@ ser = serial.Serial(
     stopbits=serial.STOPBITS_ONE,
     timeout=1
 )
-
-
-# # Load the OpenAI API key
-
-# In[ ]:
 
 
 ######################################################################################################
@@ -123,11 +103,6 @@ api_key = os.getenv('OPENAI_API_KEY')
 # Set the OpenAI API key
 openai.api_key = api_key
 client = openai
-
-
-# # Prompts and RAG contents
-
-# In[ ]:
 
 
 ######################################################################################################
@@ -174,11 +149,6 @@ soundtrack_map = {
     range(11, 12): "tav11.mp3",
     range(12, 13): "tav12.mp3"
 }
-
-
-# # Functions
-
-# In[ ]:
 
 
 ######################################################################################################
@@ -385,11 +355,6 @@ def text_to_speech(content, tts_voice):
     return speech_file_path
 
 
-# # Select the source of the prompt file (local or github)
-
-# In[ ]:
-
-
 ###########################################
 # SELECT PROMPT FROM LOCAL FILE OR GITHUB #
 ###########################################
@@ -404,11 +369,6 @@ else:
 # Append the selection of narrative language to the prompt text
 prompt_text += prompt_addendum
 print(prompt_text)
-
-
-# # Play with BookLed and AI with voiceover and soundtrack
-
-# In[ ]:
 
 
 # set mix audio levels
@@ -494,9 +454,6 @@ finally:
     if soundtrack_thread is not None:
         soundtrack_thread.join()
     print("Program terminated")
-
-
-# In[ ]:
 
 
 
