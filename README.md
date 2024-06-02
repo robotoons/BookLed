@@ -2,7 +2,8 @@ BookLed -- An interactive Paper Book
 ====================================
 
 ## **DESCRIPTION**
-BookLed is a hardcover paper book, containing electronic hardware, designed for experimenting with **Python** and for exploring **Generative AI**.  
+BookLed is a hardcover paper book, containing electronic hardware, designed for experimenting with **Python** and for exploring **Generative AI**. 
+With a BookLed and an OpenAI API account you can explore the world of AI storytelling **starting from the pages of a paper book**!
 
 <img src="docs/images/xontontox.jpg" alt="Xontontox is calling home Image" width="300">
 
