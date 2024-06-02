@@ -45,10 +45,6 @@ To experiment with the BookLed you need:
 
 ## **CODE EXAMPLES**
 
-Below is the list of jupyter notebook code examples for BookLed that you can download from this repository.
-
-## **CODE EXAMPLES**
-
 Below is the list of Jupyter notebook code examples for BookLed that you can download from this repository.
 
 | Jupyter Notebook                                      | OpenAI API       | Description                                                                                  |
