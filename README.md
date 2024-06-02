@@ -28,7 +28,7 @@ This codes can identify the book’s page and delivers the multimedia content sy
 
 ## **SYSTEM REQUIREMENTS**
 To experiment with the BookLed you need:
-  * A BookLed
+  * A BookLed  ([buy it from Tindie](https://www.tindie.com/products/robotoons/bookled/))
   * A USB cable
   * A PC
   * Python 3.11.0 or higher or jupyter notebook installed
