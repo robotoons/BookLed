@@ -47,6 +47,20 @@ To experiment with the BookLed you need:
 
 Below is the list of jupyter notebook code examples for BookLed that you can download from this repository.
 
+## **CODE EXAMPLES**
+
+Below is the list of Jupyter notebook code examples for BookLed that you can download from this repository.
+
+| Jupyter Notebook                                      | OpenAI API       | Description                                                                                  |
+| ----------------------------------------------------- | ---------------- | -------------------------------------------------------------------------------------------- |
+| [BookLed Experiment 1 (Hello Owl!).ipynb](https://github.com/robotoons/BookLed/blob/main/codes/jupyter%20notebooks/BookLed%20Experiment%201%20(Hello%20Owl!).ipynb)               | [NOT REQUIRED]   | This is the "Hello world" code to play with BookLed                                          |
+| [BookLed Experiment 2 (Talking Book!) - ENGLISH.ipynb](https://github.com/robotoons/BookLed/blob/main/codes/jupyter%20notebooks/BookLed%20Experiment%202%20(Talking%20Book!)%20-%20ENGLISH.ipynb)  | [NOT REQUIRED]   | The pages of the BookLed are recited with **English cartoon voices**!                        |
+| [BookLed Experiment 3 (AI Book) V3.ipynb](https://github.com/robotoons/BookLed/blob/main/codes/jupyter%20notebooks/BookLed%20Experiment%203%20(AI%20Book)%20V3.ipynb)               | [REQUIRED]       | Experience the magic of having the pages of your paper book brought to life through **generative AI storytelling**! |
+| [BookLed Experiment 4 (AI Book) - ITALIAN V0.ipynb](https://github.com/robotoons/BookLed/blob/main/codes/jupyter%20notebooks/BookLed%20Experiment%204%20(AI%20Book)%20-%20ITALIAN%20V0.ipynb)     | [REQUIRED]       | Add the magic of a **soundtrack** to your experience! Narrative voice in Italian.            |
+| [BookLed Experiment 5 (AI book) - ENGLISH V5.ipynb](https://github.com/robotoons/BookLed/blob/main/codes/jupyter%20notebooks/BookLed%20Experiment%205%20(AI%20book)%20-%20ENGLISH%20V5.ipynb)     | [REQUIRED]       | Add the magic of a soundtrack and an English narrative voice!                                |
+| [BookLed Experiment 6 (AI book) - MULTILINGUAL V0.ipynb](https://github.com/robotoons/BookLed/blob/main/codes/jupyter%20notebooks/BookLed%20Experiment%206%20(AI%20book)%20-%20MULTILINGUAL%20V0.ipynb) | [REQUIRED]       | Have the BookLed **recite in the language you prefer**! Musical soundtrack included.         |
+
+
 | jupyter notebook            | OpenAI API | Description |
 | ----------------- | --------- | ----------- |
 | BookLed Experiment 1 (Hello Owl!).ipynb            | [NOT REQUIRED]    | This is the "Hello world" code to play with BookLed |
