@@ -38,7 +38,7 @@ To experiment with the BookLed you need:
 ## **Quick Start**
 
 ### 1. Install USB Silabs Drivers
-### 2. Go to github to download jupyter notebooks
+### 2. Go to experiment pages to download jupyter notebooks or python codes
 ### 3. Explore Generative AI with the help of Little Owl!
 
 
@@ -50,22 +50,19 @@ Below is the list of jupyter notebook code examples for BookLed that you can dow
 | jupyter notebook            | OpenAI API | Description |
 | ----------------- | --------- | ----------- |
 | BookLed Experiment 1 (Hello Owl!).ipynb            | [NOT REQUIRED]    | This is the "Hello world" code to play with BookLed |
-| BookLed Experiment 2 (Talking Owl!).ipynb            | [NOT REQUIRED]    | The pages of the BookLed are recited with cartoon voices! |
-| BookLed Experiment 3 (Behind the book).ipynb            | [NOT REQUIRED]    | The pages of the BookLed are augmented with interactive scenography! |
-| BookLed Experiment 4 (AI tells the story).ipynb            | [REQUIRED]    | The pages of the book are narrated by the voice of the AI! |
-| BookLed Experiment 4 (Litte Owl tells the story).ipynb            | [REQUIRED]    | The pages of the book are narrated by the voice of Little Owl! |
-
+| BookLed Experiment 2 (Talking Book!) - ENGLISH.ipynb            | [NOT REQUIRED]    | The pages of the BookLed are recited with english cartoon voices! |
+| BookLed Experiment 3 (AI Book) V3.ipynb            | [REQUIRED]    | Experience the magic of having the pages of your paper book brought to life through generative AI storytelling! |
+| BookLed Experiment 4 (AI Book) - ITALIAN V0.ipynb            | [REQUIRED]    | Add the magic of a soundtrack to your experience! Narrative voice in italian.|
+| BookLed Experiment 5 (AI book) - ENGLISH V5.ipynb            | [REQUIRED]    | Add the magic of a soundtrack and an ensglish narrative voice! |
+| BookLed Experiment 6 (AI book) - MULTILINGUAL V0.ipynb            | [REQUIRED]    | Have the BookLed recite in the language you prefer! Musical soundtrack included. |
 
 Below is the list of python codes for BookLed that you can download from this repository.
 
 | python            | OpenAI API | Description |
 | ----------------- | --------- | ----------- |
 | BookLed Experiment 1 (Hello Owl!).py            | [NOT REQUIRED]    | This is the "Hello world" code to play with BookLed |
-| BookLed Experiment 2 (Talking Owl!).py            | [NOT REQUIRED]    | The pages of the BookLed are recited with cartoon voices! |
-| BookLed Experiment 3 (Behind the book).py            | [NOT REQUIRED]    | The pages of the BookLed are augmented with interactive scenography! |
-| BookLed Experiment 4 (AI tells the story).py            | [REQUIRED]    | The pages of the book are narrated by the voice of the AI! |
-| BookLed Experiment 4 (Litte Owl tells the story).py            | [REQUIRED]    | The pages of the book are narrated by the voice of Little Owl! |
-
+| BookLed Experiment 2 (Talking Book!) - ENGLISH..py            | [NOT REQUIRED]    | The pages of the BookLed are recited with english cartoon voices! |
+| BookLed Experiment 6 (AI book) - MULTILINGUAL V0.py            | [REQUIRED]    | Have the BookLed recite in the language you prefer! Musical soundtrack included. |
 
 
 
