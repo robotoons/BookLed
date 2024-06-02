@@ -39,7 +39,7 @@ To experiment with the BookLed you need:
 
 ### 1. Install USB Silabs Drivers
 ### 2. Go to experiment pages to download jupyter notebooks or python codes
-### 3. Explore Generative AI with the help of Little Owl!
+### 3. Explore Generative AI with the help of Little Owl! (_OpenAI API account required_)
 
 
 
