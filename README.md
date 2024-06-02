@@ -63,9 +63,9 @@ Below is the list of python codes for BookLed that you can download from this re
 
 | python            | OpenAI API | Description |
 | ----------------- | --------- | ----------- |
-| BookLed Experiment 1 (Hello Owl!).py            | [NOT REQUIRED]    | This is the "Hello world" code to play with BookLed |
-| BookLed Experiment 2 (Talking Book!) - ENGLISH..py            | [NOT REQUIRED]    | The pages of the BookLed are recited with english **cartoon voices**! |
-| BookLed Experiment 6 (AI book) - MULTILINGUAL V0.py            | [REQUIRED]    | Have the BookLed **recite in the language you prefer**! **Musical soundtrack** included. |
+| [BookLed Experiment 1 (Hello Owl!).py](https://github.com/robotoons/BookLed/blob/main/codes/python/BookLed%20Experiment%201%20(Hello%20Owl!).py)            | [NOT REQUIRED]    | This is the "Hello world" code to play with BookLed |
+| [BookLed Experiment 2 (Talking Book!) - ENGLISH.py](https://github.com/robotoons/BookLed/blob/main/codes/python/BookLed%20Experiment%202%20(Talking%20Book!)%20-%20ENGLISH.py)            | [NOT REQUIRED]    | The pages of the BookLed are recited with english **cartoon voices**! |
+| [BookLed Experiment 6 (AI book) - MULTILINGUAL V0.py](https://github.com/robotoons/BookLed/blob/main/codes/python/BookLed%20Experiment%206%20(AI%20book)%20-%20MULTILINGUAL%20V0.py)            | [REQUIRED]    | Have the BookLed **recite in the language you prefer**! **Musical soundtrack** included. |
 
 
 
