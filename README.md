@@ -1,4 +1,4 @@
-BookLed -- An interactive Paper Book
+BookLed -- AI Storytelling Paper Book
 ====================================
 
 ## **DESCRIPTION**
