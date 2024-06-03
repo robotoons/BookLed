@@ -11,6 +11,8 @@ In this github repository, examples of Python and Jupyter notebook codes are col
 
 See the [wiki](https://github.com/robotoons/BookLed/wiki) for extensive documentation.
 
+To dowload the BookLed Technical Manual go to [BookLed Technical Manual](https://github.com/robotoons/BookLed/blob/main/docs/BookLed%20technical%20manual%20v1.0.pdf)
+
 In appearance, BookLed is a normal book with thick card pages. 
 At the top of the book, there is a small USB port and switch.
 
@@ -66,7 +68,6 @@ Below is the list of python codes for BookLed that you can download from this re
 | [BookLed Experiment 1 (Hello Owl!).py](https://github.com/robotoons/BookLed/blob/main/codes/python/BookLed%20Experiment%201%20(Hello%20Owl!).py)            | [NOT REQUIRED]    | This is the "Hello world" code to play with BookLed |
 | [BookLed Experiment 2 (Talking Book!) - ENGLISH.py](https://github.com/robotoons/BookLed/blob/main/codes/python/BookLed%20Experiment%202%20(Talking%20Book!)%20-%20ENGLISH.py)            | [NOT REQUIRED]    | The pages of the BookLed are recited with english **cartoon voices**! |
 | [BookLed Experiment 6 (AI book) - MULTILINGUAL V0.py](https://github.com/robotoons/BookLed/blob/main/codes/python/BookLed%20Experiment%206%20(AI%20book)%20-%20MULTILINGUAL%20V0.py)            | [REQUIRED]    | Have the BookLed **recite in the language you prefer**! **Musical soundtrack** included. |
-
 
 
 
