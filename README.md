@@ -27,7 +27,7 @@ This codes can identify the book’s page and delivers the multimedia content sy
 
 - soundtrack of the book and dubbing of the story with ‘cartoon’ voices.  
 - animated backgrounds that virtually extend the printed page to the Web.  
-- interaction with **AI generated Little Owl character**.  
+- **expanded narrative contents** created by the power of **generative AI**.  
 
 ## **SYSTEM REQUIREMENTS**
 To experiment with the BookLed you need:
