@@ -29,7 +29,7 @@ This codes can identify the book’s page and delivers the multimedia content sy
 - animated backgrounds that virtually extend the printed page to the Web.  
 - **expanded narrative contents** created by the power of **generative AI**.  
 
-## **DESCRIPTIVE VIDEO**
+## **YOUTUBE VIDEO**
 Here is a descriptive video about BookLed: [BookLed Video](https://youtu.be/s0RE-ibNndk)
 
 ## **SYSTEM REQUIREMENTS**
