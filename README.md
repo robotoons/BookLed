@@ -30,11 +30,7 @@ This codes can identify the book’s page and delivers the multimedia content sy
 - **expanded narrative contents** created by the power of **generative AI**.  
 
 ## **DESCRIPTIVE VIDEO**
-Here is a descriptive video about BookLed:
-
-<div align="center">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/s0RE-ibNndk" frameborder="0" allowfullscreen></iframe>
-</div>
+Here is a descriptive video about BookLed: [BookLed Video](https://youtu.be/s0RE-ibNndk)
 
 ## **SYSTEM REQUIREMENTS**
 To experiment with the BookLed you need:
