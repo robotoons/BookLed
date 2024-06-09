@@ -29,6 +29,13 @@ This codes can identify the book’s page and delivers the multimedia content sy
 - animated backgrounds that virtually extend the printed page to the Web.  
 - **expanded narrative contents** created by the power of **generative AI**.  
 
+## **DESCRIPTIVE VIDEO**
+Here is a descriptive video about BookLed:
+
+<div align="center">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/s0RE-ibNndk" frameborder="0" allowfullscreen></iframe>
+</div>
+
 ## **SYSTEM REQUIREMENTS**
 To experiment with the BookLed you need:
   * A BookLed  ([buy it from Tindie](https://www.tindie.com/products/robotoons/bookled/))
