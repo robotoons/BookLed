@@ -26,7 +26,7 @@ So, connect the USB of the BookLed to your PC and launch the **jupyter notebooks
 This codes can identify the book’s page and delivers the multimedia content synchronized with the turning of the pages:  
 
 - soundtrack of the book and dubbing of the story with ‘cartoon’ voices.  
-- animated backgrounds that virtually extend the printed page to the Web.  
+- animated backgrounds that virtually extend the printed page.  
 - **expanded narrative contents** created by the power of **generative AI**.  
 
 ## **YOUTUBE VIDEO**
