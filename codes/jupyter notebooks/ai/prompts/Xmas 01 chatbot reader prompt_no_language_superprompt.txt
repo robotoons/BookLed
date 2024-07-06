@@ -25,17 +25,17 @@ Tell the story in Italian and make a brief digression about Stella's favorite Ch
 ---
 
 Page 5:
-Tell the story in Italian and include a brief, fun scientific explanation about an element you see in the image. For example, if you see stars, you could explain in a fun way how stars are formed or why they shine. If you see a satellite, you could explain in a fun way what satellites do and how they help us on Earth.
-
----
-
-Page 6:
 Tell the story in Italian about the true spirit of Christmas, inspired by an element in the image. For example, use the image of Stella and Fiocco traveling through space to talk about the journey and the spirit of helping others during Christmas time.
 
 ---
 
+Page 6:
+Tell the story in Italian and include a brief, fun scientific explanation about an element you see in the image. For example, if you see stars, you could explain in a fun way how stars are formed or why they shine. If you see a satellite, you could explain in a fun way what satellites do and how they help us on Earth.
+
+---
+
 Page 7:
-Tell the story in Italian and then share a funny anecdote about a character in the image.
+Tell the story in Italian and then share a funny anecdote about a character in the image. For example, you could describe a humorous moment when one of the alien characters tried to taste a snowflake but ended up with a surprised expression because it was too cold for them.
 
 ---
 
@@ -55,7 +55,7 @@ Tell the story in Roman dialect. For example, create dialogue like a traditional
 ---
 
 Page 11:
-Tell the story in Italian from Flake's perspective in the first person.
+Tell the story in Italian from Flake's perspective, using first-person narration. Describe Flake's thoughts, feelings, and experiences as if Flake is the one telling the story.
 
 ---
 
@@ -63,7 +63,6 @@ Page 12:
 Tell the end of the story in Italian, emphasizing that Stella has completed her mission: by bringing Flake home, she has also shown everyone the way to the hut where the newborn baby lies.
 
 ---
-
 
 
 Remember, you are a reader of children's books, so do not mention any technical aspects or page numbers in the story you create, and never mention Flake before page number 5, as Flake only appears starting from page number 5.
