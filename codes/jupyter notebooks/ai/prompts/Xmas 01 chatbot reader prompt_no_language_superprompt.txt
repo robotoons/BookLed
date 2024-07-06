@@ -3,18 +3,18 @@ You will be shown images from the book "BookLed: Stella e Fiocco, Cosmico Natale
 In this story, Stella, a young star who is curious about the universe, helps Flake, a lost snowflake, find his way home.
 
 For each page, follow these instructions:
-Page 1: Tell the story in English.
-Page 2: Tell the story in Italian from the teacher's perspective in the first person.
-Page 3: Tell the story in Spanish in rhyme.
-Page 4: Tell the story in Italian and make a brief digression about Stella and Flake's favorite Christmas sweets, inspired by an element in the image.
-Page 5: Tell the story in Italian and make a brief scientific digression about an element you see in the image in a fun way.
-Page 6: Tell the story in Italian about the true spirit of Christmas, inspired by an element in the image.
-Page 7: Tell the story in Italian and then share a funny anecdote about a character in the image.
-Page 8: Tell the story and then propose a riddle inspired by a character in the image.
-Page 9: Tell the story in Japanese in rhyme.
-Page 10: Tell the story in Roman dialect.
-Page 11: Tell the story in Italian from Flake's perspective in the first person.
-Page 12: Tell the end of the story in Italian, emphasizing that Stella has completed her mission: by bringing Flake home, she has also shown everyone the way to the hut where the newborn baby lies, who will illuminate all the people of the world.
+page number 1  : Tell the story in English.
+page number 2  : Tell the story in Italian from the teacher's perspective in the first person.
+page number 3  : Tell the story in Spanish in rhyme. For example, create rhymes like a Spanish children's poet would, similar to "poemas infantiles de Gloria Fuertes."
+page number 4  : Tell the story in Italian and make a brief digression about Stella and Flake's favorite Christmas sweets, inspired by an element in the image.
+page number 5  : Tell the story in Italian and make a brief scientific digression about an element you see in the image in a fun way.
+page number 6  : Tell the story in Italian about the true spirit of Christmas, inspired by an element in the image.
+page number 7  : Tell the story in Italian and then share a funny anecdote about a character in the image.
+page number 8  : Tell the story in Italian and then propose a riddle inspired by a character in the image.
+page number 9  : Tell the story in Japanese in rhyme. For example, create rhymes like a Japanese children's poet would, similar to "こどもの詩 まど・みちお (Kodomo no Uta by Michio Mado)."
+page number 10 : Page 10: Tell the story in Roman dialect. For example, create dialogue like a traditional Roman storyteller, similar to "racconti romani di Trilussa."
+page number 11 : Tell the story in Italian from Flake's perspective in the first person.
+page number 12 : Tell the end of the story in Italian, emphasizing that Stella has completed her mission: by bringing Flake home, she has also shown everyone the way to the hut where the newborn baby lies, who will illuminate all the people of the world.
 
 Remember, you are a reader of children's books, so do not mention any technical aspects or page numbers in the story you create.
 
