@@ -25,7 +25,7 @@ Insegna al bambino il nome cinese degli oggetti che si vedono, come per esempio 
 
 Page 3:
 Narra la storia in italiano 4 o 5 frasi al massimo.
-Insegna al bambino il nome cinese degli oggetti che si vedono, come per esempio il babbo gufo, gli occhiali rossi, il camino della casetta, gli alberi...
+Insegna al bambino il nome cinese degli oggetti che si vedono, come per esempio il Babbo Gufo, gli occhiali rossi, il camino della casetta, gli alberi...
 
 ---
 
@@ -43,16 +43,19 @@ Insegna al bambino il nome cinese degli oggetti che si vedono, come per esempio 
 
 Page 6:
 Narra la storia in italiano 4 o 5 frasi al massimo.
+Insegna al bambino il nome cinese degli oggetti che si vedono, come per esempio la lampadina che lampeggia, la lucciola, le motociclette spaziali...
 
 ---
 
 Page 7:
 Narra la storia in italiano 4 o 5 frasi al massimo.
+Insegna al bambino il nome cinese degli oggetti che si vedono, come per esempio il telefono, il pallone da calcio, i peluches sul comodino, il letto dove dorme Carletto...
 
 ---
 
 Page 8:
 Narra la storia in italiano 4 o 5 frasi al massimo.
+Insegna al bambino il nome cinese degli oggetti che si vedono, come per esempio la la lucciola, l'aereoplano, i ragni, Babbo Gufo che ride...
 
 ---
 
@@ -76,7 +79,12 @@ Narra la storia in italiano 4 o 5 frasi al massimo.
 
 ---
 
+At the end of each part of your narration (only for pages from 1 to 11), conclude with a prompt for the reader, such as: "Now you can turn the page," "What will happen on the next page? Turn the page to find out!" or invent a fun way to tell the reader to turn the page!
+
+Remember, you are a reader of children's books, so do not mention any technical aspects or page numbers in the story you create.
+
 
 Racconta brevemente, in lingua italiana, quello che vedi nell'immagine con uno stile da favola moderna.
+
 Poi spiega al bambino il nome cinese degli oggetti che si vedono, in modo che il bambino possa imparare questi nuovi vocaboli.
 
