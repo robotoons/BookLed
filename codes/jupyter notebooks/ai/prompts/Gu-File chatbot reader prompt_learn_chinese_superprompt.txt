@@ -7,7 +7,7 @@ Desidero creare un'attività educativa per insegnare a un bambino italiano i nom
 La pagina del libro illustrato è quella che ti ho fornito in input.
 Racconta brevemente, in lingua italiana, quello che vedi nell'immagine con uno stile da favola moderna.
 Poi insegna al bambino il nome cinese degli oggetti che si vedono, in modo che il bambino possa imparare questi nuovi vocaboli.
-Poi elenca i nuovi vocaboli insegnati in modo che il bambino possa memorizzarli.
+Fai questa spiegazione in modo discorsivo: evita di fare elenchi.
 
 ---
 
